@@ -1,4 +1,4 @@
-module github.com/zu1k/clashr
+module github.com/black-desk/clashr
 
 go 1.13
 
