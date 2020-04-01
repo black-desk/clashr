@@ -5,7 +5,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/zu1k/clashr/common/pool"
+	"github.com/black-desk/clashr/common/pool"
 )
 
 const (

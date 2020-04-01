@@ -1,7 +1,7 @@
 package auth
 
 import (
-	"github.com/zu1k/clashr/component/auth"
+	"github.com/black-desk/clashr/component/auth"
 )
 
 var (

@@ -1,20 +1,20 @@
 <h1 align="center">
-  <img src="https://github.com/zu1k/clashr/raw/master/docs/logo.png" alt="Clash" width="200">
+  <img src="https://github.com/black-desk/clashr/raw/master/docs/logo.png" alt="Clash" width="200">
   <br>Clash<br>
 </h1>
 
 <h4 align="center">A rule-based tunnel in Go.</h4>
 
 <p align="center">
-  <a href="https://travis-ci.org/zu1k/clashr">
-    <img src="https://img.shields.io/travis/zu1k/clashr.svg?style=flat-square"
+  <a href="https://travis-ci.org/black-desk/clashr">
+    <img src="https://img.shields.io/travis/black-desk/clashr.svg?style=flat-square"
          alt="Travis-CI">
   </a>
-  <a href="https://goreportcard.com/report/github.com/zu1k/clashr">
-    <img src="https://goreportcard.com/badge/github.com/zu1k/clashr?style=flat-square">
+  <a href="https://goreportcard.com/report/github.com/black-desk/clashr">
+    <img src="https://goreportcard.com/badge/github.com/black-desk/clashr?style=flat-square">
   </a>
-  <a href="https://github.com/zu1k/clashr/releases">
-    <img src="https://img.shields.io/github/release/zu1k/clashr/all.svg?style=flat-square">
+  <a href="https://github.com/black-desk/clashr/releases">
+    <img src="https://img.shields.io/github/release/black-desk/clashr/all.svg?style=flat-square">
   </a>
 </p>
 
@@ -32,10 +32,10 @@
 Clash Requires Go >= 1.13. You can build it from source:
 
 ```sh
-$ go get -u -v github.com/zu1k/clashr
+$ go get -u -v github.com/black-desk/clashr
 ```
 
-Pre-built binaries are available here: [release](https://github.com/zu1k/clashr/releases)
+Pre-built binaries are available here: [release](https://github.com/black-desk/clashr/releases)
 
 Check Clash version with:
 
@@ -57,7 +57,7 @@ $ pm2 start clash
 
 If you have Docker installed, you can run clash directly using `docker-compose`.
 
-[Run clash in docker](https://github.com/zu1k/clashr/wiki/Run-clash-in-docker)
+[Run clash in docker](https://github.com/black-desk/clashr/wiki/Run-clash-in-docker)
 
 ## Config
 
